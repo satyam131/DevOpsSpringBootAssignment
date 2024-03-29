@@ -38,6 +38,9 @@
 		</dependency>
 	</dependencies>
 
+
+
+
 	<build>
 		<plugins>
 			<plugin>
@@ -45,6 +48,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>devopsproject</finalName>
 	</build>
+
+
 
 </project>
